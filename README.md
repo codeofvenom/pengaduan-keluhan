@@ -1,4 +1,4 @@
-# gudang-pemesanan
+# pengaduan-keluhan
 Aplikasi Manajemen yang dibuat dengan bahasa PHP dengan Framework Codeigniter 3
 digunakan mengadu keluhan para pegawai dan staff ke HRDataupun atasan
 di suatu perusahaan sehingga membantu dalam membantu mengambil keputusan,
